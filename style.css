@@ -1,0 +1,31 @@
+body{
+    background-color: #e6e8eb;
+}
+h1{
+    font-size: 60.9999px;
+}
+button{
+    border-radius: 1px;
+    display: inline-block;
+    margin:21.99px;
+    padding: 9px;
+}
+a{
+    text-decoration: none;
+    color:green;
+}
+#selected{
+    background-color: rgb(0, 255, 191);
+}
+div{
+    width: 32.33%;
+    height: 650.33px;
+    background-color: rgb(167, 167, 167);
+    display: inline-block;
+}
+#name{
+    margin-top: 5px;
+}
+nav{
+    text-align: center;
+}
